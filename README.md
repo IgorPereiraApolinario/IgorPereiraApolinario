@@ -1,4 +1,4 @@
-:☠️ ---- Olá! Bem vindo ao meu perfil ---- ☠️:
+***:☠️ ---- Olá! Bem vindo ao meu perfil ---- ☠️:***
 
 ⚫ Meu nome é **Igor Pereira Apolinário** ⚫
 
