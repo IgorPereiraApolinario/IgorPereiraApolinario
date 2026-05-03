@@ -1,12 +1,13 @@
 <h1 align="center">⬛ Olá, bem vindo! ⬛</h1
+<div>
+<h1 align="center">⚫ Meu nome é **Igor Pereira Apolinário** ⚫</h1>
 
-⚫ Meu nome é **Igor Pereira Apolinário** ⚫
+<h1 align="center">🔲 Atualmente, sou **Estudante de Engenharia de Software** na **PUC Minas (Coração Eucarístico)**, em *Belo Horizonte* 🔲</h1>
 
-🔲 Atualmente, sou **Estudante de Engenharia de Software** na **PUC Minas (Coração Eucarístico)**, em *Belo Horizonte* 🔲
+<h1 align="center">⬛ Grande ouvinte de **Rock'n'roll**! ⬛</h1>
 
-⬛ Grande ouvinte de **Rock'n'roll**! ⬛
-
-▪️*Estudar é a graça da vida* ▪️
+<h1 align="center">▪️*Estudar é a graça da vida* ▪️</h1>
+</div>
 
                                            APRENDENDO CSS, HTML, JS, JSON E PYTHON
 
