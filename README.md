@@ -15,8 +15,6 @@
 &style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-<h1 align="center">⬛ Olá, bem vindo! ⬛</h1>
-
 ###
 
 <div align="center">
