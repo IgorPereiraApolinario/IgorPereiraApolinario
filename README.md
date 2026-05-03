@@ -1,4 +1,4 @@
-***:☠️ ---- Olá! Bem vindo ao meu perfil ---- ☠️:***
+<h1 align="center">⬛ Olá, bem vindo! ⬛</h1
 
 ⚫ Meu nome é **Igor Pereira Apolinário** ⚫
 
@@ -10,7 +10,7 @@
 
                                            APRENDENDO CSS, HTML, JS, JSON E PYTHON
 
-<h1 align="center">⬛ Olá, bem vindo! ⬛</h1>
+
 
 ###
 
