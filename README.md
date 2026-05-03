@@ -37,7 +37,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IgorPereiraApolinario/IgorPereiraApolinario/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div aling="center>
+  <img src="https://raw.githubusercontent.com/IgorPereiraApolinario/IgorPereiraApolinario/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
