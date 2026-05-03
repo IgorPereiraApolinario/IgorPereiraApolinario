@@ -8,5 +8,5 @@
 
 ▪️*Estudar é a graça da vida* ▪️
 
-                                      APRENDENDO CSS, HTML, JS, JSON E PYTHON
+                                           APRENDENDO CSS, HTML, JS, JSON E PYTHON
 
