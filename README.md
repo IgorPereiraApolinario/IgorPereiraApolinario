@@ -2,7 +2,7 @@
 
 ⚫ Meu nome é **Igor Pereira Apolinário** ⚫
 
-🔲 Atualmente, sou **Estudante de Engenharia de Software** na **PUC Minas (Coração Eucarístico)** 🔲
+🔲 Atualmente, sou **Estudante de Engenharia de Software** na **PUC Minas (Coração Eucarístico)**, em *Belo Horizonte* 🔲
 
 ⬛ Grande ouvinte de **Rock'n'roll**! ⬛
 
